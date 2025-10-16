@@ -1,6 +1,6 @@
 # AI-Lecture-Transcription
-Part I: Cognitive Load Theory - A Primer for Academic Contexts
-Understanding the Three Types of Cognitive Load
+# Part I: Cognitive Load Theory - A Primer for Academic Contexts
+## Understanding the Three Types of Cognitive Load
 Cognitive Load Theory, first articulated by John Sweller in 1988, posits that working memory has inherent limitations that directly impact learning efficiency. Sweller's research demonstrated that working memory can process only 3-5 discrete information elements simultaneously (Sweller, 1988), a constraint that has profound implications for how we approach learning in academic settings.
 1.Intrinsic Cognitive Load (ICL)
 Intrinsic load represents the inherent complexity of the material itself. This load cannot be reduced without simplifying the content. Consider these examples:
