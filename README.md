@@ -2,7 +2,7 @@
 # Part I: Cognitive Load Theory - A Primer for Academic Contexts
 ## Understanding the Three Types of Cognitive Load
 
-Cognitive Load Theory, first articulated by John Sweller in 1988(https://psycnet.apa.org/record/1989-15124-001), posits that working memory has inherent limitations that directly impact learning efficiency. Sweller's research demonstrated that working memory can process only 3-5 discrete information elements simultaneously (Sweller, 1988), a constraint that has profound implications for how we approach learning in academic settings.
+Cognitive Load Theory, first articulated by John Sweller in 1988 (https://psycnet.apa.org/record/1989-15124-001), posits that working memory has inherent limitations that directly impact learning efficiency. Sweller's research demonstrated that working memory can process only 3-5 discrete information elements simultaneously (Sweller, 1988), a constraint that has profound implications for how we approach learning in academic settings.
 
 ### 1.Intrinsic Cognitive Load (ICL)
 Intrinsic load represents the inherent complexity of the material itself. This load cannot be reduced without simplifying the content. Consider these examples:
@@ -20,7 +20,7 @@ This represents unnecessary cognitive burden imposed by how information is prese
 - Managing physical fatigue from sustained writing;
 - Recovering from moments of distraction.
 
-Research by Kiewra et al. (1991) found that students capture less than 40% of critical lecture content in their notes, with this percentage dropping significantly as material complexity increases.
+Research by Kiewra et al. (1991) (https://www.researchgate.net/publication/232444181_Note-Taking_Functions_and_Techniques)found that students capture less than 40% of critical lecture content in their notes, with this percentage dropping significantly as material complexity increases.
 
 ### 3.Germane Cognitive Load (GCL)
 This is the productive load - cognitive resources devoted to schema construction, pattern recognition, and deep understanding. GCL is where actual learning occurs. However, GCL requires available working memory capacity, which brings us to the central problem.
@@ -72,8 +72,8 @@ The fundamental problem: Legal reasoning requires network thinking, but linear n
 # Part III: The Alternative Paradigm - "Complete Capture + Delayed Processing"
 ## Theoretical Foundation
 This methodology inverts the traditional approach by separating cognitive tasks across time, respecting working memory limitations. The framework draws from two research streams:
-1. **The Testing Effect (Roediger & Karpicke, 2006)**: Retrieval practice enhances long-term retention more effectively than repeated study.
-2. **Distributed Practice (Cepeda et al., 2006)**: Spacing learning sessions improves retention dramatically compared to massed practice.
+1. **The Testing Effect (Roediger & Karpicke, 2006 (https://www.science.org/doi/10.1126/science.1199327))**: Retrieval practice enhances long-term retention more effectively than repeated study.
+2. **Distributed Practice (Cepeda et al., 2006 (https://pubmed.ncbi.nlm.nih.gov/16719566/))**: Spacing learning sessions improves retention dramatically compared to massed practice.
 ## The Three-Phase Protocol
 ### Phase 1: Complete Attention During Lecture (0% Note-Taking)
 
@@ -173,7 +173,7 @@ Consider these factors when choosing a transcription service:
 1. **Monthly volume**: How many lecture hours per week?
   - Light users (< 10 hrs/week): Sonix pay-as-you-go or Otter.ai Pro.
   - Moderate users (10-15 hrs/week): Notta Business or Otter.ai Business.
-  - Heavy users (15+ hrs/week): NeverCap.ai offers unlimited transcription without quota management.
+  - Heavy users (15+ hrs/week): NeverCap (https://nevercap.ai/?utm_source=github&utm_medium=content&utm_campaign=blog_outreach&utm_content=ai_lecture_transcription) offers unlimited transcription without quota management.
 2. **Complexity**: Technical terminology accuracy needs?
   - Critical accuracy (medical, legal, advanced STEM): Rev.com Pro with human review.
   - Good accuracy acceptable: Notta Business or Otter.ai Business.
